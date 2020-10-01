@@ -1,5 +1,4 @@
-# Hiểu về ý nghĩa của phân phối chuẩn
-### Normal Distribution of Data
+## Phân phối chuẩn của dữ liệu
 #### Bài gốc: https://www.varsitytutors.com/hotmath/hotmath_help/topics/normal-distribution-of-data
 
 Phân phối chuẩn, còn gọi là phân phối Gauss, là một phân phối xác suất phổ biến. Nó có hình dạng thường được gọi là "đường cong hình chuông" (curve bell 🔔) .
@@ -25,9 +24,9 @@ Khoảng 99.7% giá trị nằm trong 3 độ lệch chuẩn (3σ) của giá tr
 
 (Lưu ý rằng những giá trị này là gần đúng)
 
-# Ví dụ
+## Ví dụ
 
-## Ví dụ 1
+### Ví dụ 1
 
 Có 1 tập hợp dữ liệu được phân phối bình thường với giá trị trung bình là 5. Vậy bao nhiêu phần trăm dữ liệu nhỏ hơn 5?
 
@@ -35,7 +34,7 @@ Phân phối chuẩn thì đối xứng về giá trị trung bình. Vì vậy, 
 
 Do đó, 50% dữ liệu nhỏ hơn 5.
 
-## Ví dụ 2
+### Ví dụ 2
 
 Tuổi thọ của pin điện thoại được sạc đầy thường được phân phối với mức trung bình là 14 giờ và độ lệch chuẩn là 1 giờ. Xác suất để pin dùng được ít nhất 13 giờ là bao nhiêu?
 
@@ -47,7 +46,7 @@ Khoảng thời gian từ 13 đến 14 giờ đại diện cho một độ lệc
 
 Do đó, xác suất để pin kéo dài ít nhất 13 giờ là khoảng 34.1% + 50%  = 84.1%
 
-## Ví dụ 3
+### Ví dụ 3
 
 Trọng lượng trung bình của một quả mâm xôi là 4.4 gram với độ lệch chuẩn là 1.3 gram. Xác suất để một quả mâm xôi được chọn ngẫu nhiên có trọng lượng ít nhất 3.1 gram nhưng không quá 7.0 gram là bao nhiêu?
 
@@ -71,7 +70,7 @@ Thêm các khu vực, chúng ta nhận được 34.1% + 34.1% + 13.6% = 81.8%.
 
 Do đó, xác suất để một quả mâm xôi được chọn ngẫu nhiên sẽ nặng ít nhất 3.1 gram nhưng không quá 7.0 gram là 81.8%
 
-## Ví dụ 4
+### Ví dụ 4
 
 Một thị trấn có 330,000 người lớn. Chiều cao của họ được phân bổ bình thường với giá trị trung bình là 160 cm và phương sai là 64 cm2. vậy có bao nhiêu người cao hơn 184 cm?
 
