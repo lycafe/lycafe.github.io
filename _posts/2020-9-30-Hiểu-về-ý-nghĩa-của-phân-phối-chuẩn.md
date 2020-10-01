@@ -1,5 +1,4 @@
 ## Phân phối chuẩn của dữ liệu
-#### Bài gốc: https://www.varsitytutors.com/hotmath/hotmath_help/topics/normal-distribution-of-data
 
 Phân phối chuẩn, còn gọi là phân phối Gauss, là một phân phối xác suất phổ biến. Nó có hình dạng thường được gọi là "đường cong hình chuông" (curve bell 🔔) .
 
@@ -83,3 +82,6 @@ Biểu đồ trên cho thấy điều này đại diện cho khoảng 0.1% dữ 
 330.000 × 0.001318≈435
 
 Vì vậy, sẽ có khoảng 435 người trong thị trấn cao hơn 184 cm
+
+### Reference
+https://www.varsitytutors.com/hotmath/hotmath_help/topics/normal-distribution-of-data
