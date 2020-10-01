@@ -1,3 +1,8 @@
+---
+layout: post
+title: Hiểu về ý nghĩa của phân phối chuẩn
+---
+
 ## Phân phối chuẩn của dữ liệu
 
 Phân phối chuẩn, còn gọi là phân phối Gauss, là một phân phối xác suất phổ biến. Nó có hình dạng thường được gọi là "đường cong hình chuông" (curve bell 🔔) .
