@@ -13,13 +13,13 @@ Phân phối chuẩn luôn đối xứng về giá trị trung bình.
 
 Độ lệch chuẩn là thước đo mức độ trải rộng của một tập dữ liệu được phân phối chuẩn. Đây là một thống kê cho bạn biết tất cả các ví dụ được thu thập chặt chẽ như thế nào về giá trị trung bình trong một tập dữ liệu. Hình dạng của phân phối chuẩn được xác định bởi giá trị trung bình (mean x̅) và độ lệch chuẩn (standard deviation σ). Đường cong càng dốc thì độ lệch chuẩn càng nhỏ. Nếu các mẫu được trải ra xa nhau, đường cong sẽ phẳng hơn nhiều, có nghĩa là độ lệch chuẩn lớn.
 
-![_config.yml]({{ site.baseurl }}/images/post1/post_1-image1.gif)￼
+![_config.yml]({{ site.baseurl }}/images/post1/post_1-image1.gif)
 
 Nói chung, khoảng 68.2% diện tích dưới đường cong phân phối chuẩn nằm trong 1 độ lệch chuẩn của giá trị trung bình.
 Nghĩa là, nếu x̅ là giá trị trung bình và σ là độ lệch chuẩn của phần phối, thì 68% của giá trị nằm trong khoảng (x̅ - σ) và (x̅ + σ). Xem hình bên dưới, phần diện tích vừa đề cập là vùng được tô màu hồng.
 Phân phối chuẩn với giá trị trung bình (x̅) bằng 0 và độ lệch chuẩn (σ) bằng 1 gọi là Phân phối chuẩn tắc (standard normal distribution)
 
-![_config.yml]({{ site.baseurl }}/images/post1/post_1-image2.gif)￼
+![_config.yml]({{ site.baseurl }}/images/post1/post_1-image2.gif)
 
 Khoảng 95% giá trị nằm trong 2 độ lệch chuẩn (2σ) của giá trị trung bình, nghĩa là giữa (x̅ - 2σ) và (x̅ - 2σ) (Trong hình, đây là tổng của các vùng màu hồng và xanh lam: 34.1% + 34.1% + 13.6% + 13.6% = 95.4%)
 
