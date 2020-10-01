@@ -16,7 +16,7 @@ Phân phối chuẩn luôn đối xứng về giá trị trung bình.
 ![_config.yml]({{ site.baseurl }}/images/post1/post_1-image1.gif)
 
 Nói chung, khoảng 68.2% diện tích dưới đường cong phân phối chuẩn nằm trong 1 độ lệch chuẩn của giá trị trung bình.
-Nghĩa là, nếu x̅ là giá trị trung bình và σ là độ lệch chuẩn của phần phối, thì 68% của giá trị nằm trong khoảng (x̅ - σ) và (x̅ + σ). Xem hình bên dưới, phần diện tích vừa đề cập là vùng được tô màu hồng.
+Nghĩa là, nếu x̅ là giá trị trung bình và σ là độ lệch chuẩn của phần phối, thì 68% của giá trị nằm trong khoảng (x̅ - σ) và (x̅ + σ). Xem hình bên dưới, phần diện tích vừa đề cập là vùng được tô màu xanh lục.
 Phân phối chuẩn với giá trị trung bình (x̅) bằng 0 và độ lệch chuẩn (σ) bằng 1 gọi là Phân phối chuẩn tắc (standard normal distribution)
 
 ![_config.yml]({{ site.baseurl }}/images/post1/post_1-image2.jpg)
@@ -24,7 +24,7 @@ Phân phối chuẩn với giá trị trung bình (x̅) bằng 0 và độ lệc
 Khoảng 95% giá trị nằm trong 2 độ lệch chuẩn (2σ) của giá trị trung bình, nghĩa là giữa (x̅ - 2σ) và (x̅ - 2σ) (Trong hình, đây là tổng của các vùng màu hồng và xanh lam: 34.1% + 34.1% + 13.6% + 13.6% = 95.4%)
 
 Khoảng 99.7% giá trị nằm trong 3 độ lệch chuẩn (3σ) của giá trị trung bình, nghĩa là giữa (x̅ - 3σ) và (x̅ - 3σ).
-(Các vùng màu hồng, xanh lam và xanh lục trong hình)
+(Các vùng màu xanh lục, vàng và đỏ trong hình)
 
 (Lưu ý rằng những giá trị này là gần đúng)
 
